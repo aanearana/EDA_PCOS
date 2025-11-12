@@ -1,5 +1,5 @@
 from funciones import cargar_datos, analizar_genetica, analizar_dieta, analizar_ejercicio, analizar_habitos
-# === Cargar datasets ===
+#Cargar datasets
 df_genetica = cargar_datos("../data/pcos_genetica.csv")
 df_dieta = cargar_datos("../data/pcos_diet.csv")
 df_ejercicio = cargar_datos("../data/pcos_ejercicio.csv")

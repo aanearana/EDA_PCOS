@@ -64,7 +64,7 @@ def analizar_dieta(df):
     df = df.copy()
     df["PCOS"] = pd.to_numeric(df["PCOS"], errors="coerce")
 
-    # Columnas de dieta
+    #Columnas de dieta
     diet_cols = [col for col in df.columns if col.startswith("Diet_")]
 
     #Traducción de valores numéricos a etiquetas
@@ -76,7 +76,7 @@ def analizar_dieta(df):
         1.00: "Todos los días"
     }
 
-    # Colores personalizados
+    #Colores personalizados
     colores = ["salmon", "lightgreen", "lightblue", "orange", "violet", "cyan"]
 
     # Crear dataframes para cada grupo
@@ -86,13 +86,13 @@ def analizar_dieta(df):
     for col in diet_cols:
         temp = df.dropna(subset=[col])
 
-        # Grupo PCOS = 1
+        #Grupo PCOS = 1
         temp_pcos1 = temp[temp["PCOS"] == 1]
         freq1 = temp_pcos1[col].value_counts(normalize=True) * 100
         freq1.index = [niveles.get(round(i, 2), str(i)) for i in freq1.index]
         resultados_pcos1[col.replace("Diet_", "")] = freq1
 
-        # Grupo PCOS = 0
+        #Grupo PCOS = 0
         temp_pcos0 = temp[temp["PCOS"] == 0]
         freq0 = temp_pcos0[col].value_counts(normalize=True) * 100
         freq0.index = [niveles.get(round(i, 2), str(i)) for i in freq0.index]
@@ -163,7 +163,7 @@ def analizar_ejercicio(df):
 
     fig, axes = plt.subplots(1, 3, figsize=(25, 10))
 
-    # Frecuencia
+    #Frecuencia
     if not pcos_freq.empty:
         axes[0].pie(
             pcos_freq.values,
@@ -174,7 +174,7 @@ def analizar_ejercicio(df):
         )
     axes[0].set_title("Frecuencia de ejercicio (mujeres con PCOS)", fontsize=24)
 
-    # Duración
+    #Duración
     if not pcos_dur.empty:
         axes[1].pie(
             pcos_dur.values,
@@ -185,7 +185,7 @@ def analizar_ejercicio(df):
         )
     axes[1].set_title("Duración del ejercicio (mujeres con PCOS)", fontsize=24)
 
-    # Beneficio percibido
+    #Beneficio percibido
     if not pcos_ben.empty:
         axes[2].pie(
             pcos_ben.values,
