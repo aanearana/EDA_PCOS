@@ -136,6 +136,11 @@ Los hábitos saludables (alimentación equilibrada, ejercicio regular y sueño a
 
 Este análisis exploratorio demuestra cómo factores genéticos, hormonales y de estilo de vida influyen conjuntamente en la aparición del Síndrome de Ovario Poliquístico (PCOS). El trabajo sienta las bases para futuros modelos predictivos o de clasificación que permitan identificar perfiles de riesgo y fomentar hábitos preventivos entre las mujeres jóvenes.
 
+🎨 Presentacion
+
+https://prezi.com/view/V1YRoOTTgDxrATATTTL2/?referral_token=yEGlRYlnB3FN
+
+
 👩‍💻 Autoría
 
 Proyecto de EDA: PCOS Elaborado por: Ane Arana Alonso Dataset original: Kaggle – Diet, Exercise and PCOS Insights Lenguaje: Python 3 Entorno: Jupyter Notebook
