@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 EDA: PCOS — Exploratory Data Analysis del Síndrome de Ovario Poliquístico
 
 📖 Descripción del proyecto
