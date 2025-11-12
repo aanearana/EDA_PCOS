@@ -117,6 +117,7 @@ def analizar_dieta(df):
     axes[1].set_ylabel("")
 
     plt.tight_layout()
+    plt.show()
     plt.savefig("../data/img/pcos_vs_no_pcos_heatmap.png", dpi=300)
 
     return resultados_pcos1, resultados_pcos0
@@ -194,6 +195,7 @@ def analizar_ejercicio(df):
     axes[2].set_title("Beneficio percibido del ejercicio (mujeres con PCOS)", fontsize=24)
 
     plt.tight_layout()
+    plt.show()
     plt.savefig("../data/img/ejercicio_pcos.png", dpi=300)
 
 
@@ -223,4 +225,5 @@ def analizar_habitos(df):
     plt.legend(title="Tienen el hábito")
     plt.grid(axis="y", linestyle="--", alpha=0.6)
     plt.tight_layout()
+    plt.show()
     plt.savefig("../data/img/pcos_habitos.png", dpi=300)
