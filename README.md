@@ -12,7 +12,9 @@ El análisis se realiza sobre un dataset proveniente de Kaggle: 📂 Fuente: Die
 
 El dataset contiene 173 registros y 36 columnas, que abarcan variables relacionadas con la salud, hábitos de vida y antecedentes médicos de mujeres con y sin PCOS.
 
-Principales grupos de variables: Categoría Variables principales Datos personales y físicos Age, Weight_kg, Height_ft, Marital_Status Aspectos médicos PCOS, Family_History_PCOS, Hormonal_Imbalance, Hirsutism, Diabetes, Cardiovascular_Disease Salud mental Mental_Health, Childhood_Trauma, Stress_Level Hábitos alimenticios Diet_Fruits, Diet_Vegetables, Diet_Sweets, Diet_Fats, Vegetarian, Diet_Multivitamin Ejercicio y estilo de vida Exercise_Frequency, Exercise_Type, Exercise_Duration, Sleep_Hours, Smoking Tratamiento PCOS_Medication 🎯 Objetivo del análisis
+Principales grupos de variables: Categoría Variables principales Datos personales y físicos Age, Weight_kg, Height_ft, Marital_Status Aspectos médicos PCOS, Family_History_PCOS, Hormonal_Imbalance, Hirsutism, Diabetes, Cardiovascular_Disease Salud mental Mental_Health, Childhood_Trauma, Stress_Level Hábitos alimenticios Diet_Fruits, Diet_Vegetables, Diet_Sweets, Diet_Fats, Vegetarian, Diet_Multivitamin Ejercicio y estilo de vida Exercise_Frequency, Exercise_Type, Exercise_Duration, Sleep_Hours, Smoking Tratamiento PCOS_Medication 
+
+🎯 Objetivo del análisis
 
 El proyecto busca detectar patrones y relaciones entre distintos factores que puedan influir en la aparición del PCOS, a través de cuatro hipótesis principales:
 
