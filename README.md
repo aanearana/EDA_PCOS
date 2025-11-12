@@ -77,19 +77,41 @@ Variable Correlación con PCOS Diet_Sweets +0.15 Diet_Fried_Food +0.13 Diet_Frui
 
 Conclusión: El consumo frecuente de dulces y fritos se asocia con un mayor riesgo de PCOS, mientras que una dieta rica en frutas y verduras podría tener un efecto protector.
 
-🏋️‍♀️ Hipótesis 3 y 4: Ejercicio y Hábitos Generales
+🏋️‍♀️ Hipótesis 3: Factor de Ejercicio
 
-Objetivo: Analizar cómo la frecuencia de ejercicio, el sueño, el estrés y el tabaquismo afectan la incidencia del PCOS.
+Objetivo: Analizar cómo la frecuencia, el tipo y la duración del ejercicio físico influyen en la incidencia del PCOS.
 
-Variables: Exercise_Frequency, Exercise_Type, Exercise_Duration, Sleep_Hours, Stress_Level, Smoking.
+Variables:
+Exercise_Frequency, Exercise_Type, Exercise_Duration.
 
 Hallazgos:
 
 Las mujeres que realizan ejercicio 3–4 veces por semana muestran menores tasas de PCOS.
 
-No se encontró relación significativa con el tabaquismo, debido a baja frecuencia de casos.
+La práctica regular de ejercicio moderado o aeróbico está asociada con una menor probabilidad de desarrollar el síndrome.
 
-📊 Librerías utilizadas import pandas as pd import numpy as np import matplotlib.pyplot as plt import seaborn as sns
+🌙 Hipótesis 4: Hábitos Generales
+
+Objetivo: Analizar el nivel de estrés, el tabaquismo y la medicación cómo afectan la incidencia del PCOS.
+
+Variables:
+Stress_Level, PCOS_Medication, Smoking.
+
+Hallazgos:
+
+Altos niveles de estrés están relacionados con un aumento del riesgo.
+
+No se encontró relación significativa con el tabaquismo, debido a la baja frecuencia de casos registrados.
+
+📊 Librerías utilizadas
+
+import pandas as pd
+
+import numpy as np
+
+import matplotlib.pyplot as plt
+
+import seaborn as sns
 
 💾 Archivos generados
 

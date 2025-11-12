@@ -8,7 +8,6 @@ def cargar_datos(path):
 #Carga un CSV
     return pd.read_csv(path)
 
-
 #GENÉTICA
 def analizar_genetica(df):
     #Genera un gráfico de barras dobles mostrando el porcentaje de PCOS
@@ -56,7 +55,6 @@ def analizar_genetica(df):
 
     plt.tight_layout()
     plt.savefig("../data/img/habitos_geneticos_horizontal.png", dpi=300)
-    plt.show()
 
 
 #DIETA
@@ -120,7 +118,6 @@ def analizar_dieta(df):
 
     plt.tight_layout()
     plt.savefig("../data/img/pcos_vs_no_pcos_heatmap.png", dpi=300)
-    plt.show()
 
     return resultados_pcos1, resultados_pcos0
 
@@ -198,7 +195,6 @@ def analizar_ejercicio(df):
 
     plt.tight_layout()
     plt.savefig("../data/img/ejercicio_pcos.png", dpi=300)
-    plt.show()
 
 
 #HÁBITOS
@@ -228,4 +224,3 @@ def analizar_habitos(df):
     plt.grid(axis="y", linestyle="--", alpha=0.6)
     plt.tight_layout()
     plt.savefig("../data/img/pcos_habitos.png", dpi=300)
-    plt.show()
