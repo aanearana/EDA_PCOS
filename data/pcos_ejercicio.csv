@@ -1,0 +1,174 @@
+PCOS,Exercise Yes/No,Exercise_Frequency,Exercise_Type,Exercise_Duration,Exercise_Benefit
+0.0,1,0.25,Cardio,30,0.5
+0.0,1,1.0,No Exercise,1-29,0.5
+0.0,1,0.25,Cardio,1-29,0.5
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,1.0,Cardio,60,0.5
+0.0,1,0.25,No Exercise,0,0.0
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,,Cardio,30,0.5
+1.0,1,0.25,No Exercise,0,0.5
+1.0,1,0.0,No Exercise,0,0.5
+0.0,1,0.25,No Exercise,1-29,0.5
+1.0,1,0.25,No Exercise,0,0.5
+0.0,1,1.0,Cardio,31-59,1.0
+1.0,1,0.75,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises)",60,0.5
+0.0,1,0.75,Flexibility,30,1.0
+1.0,1,0.25,HIIT,1-29,0.0
+0.0,1,0.25,Flexibility,0,0.5
+0.0,1,,Flexibility,30,0.0
+0.0,1,0.25,No Exercise,0,1.0
+0.0,1,0.25,Cardio,60,0.5
+0.0,1,0.25,No Exercise,1-29,0.0
+1.0,1,0.25,Cardio,1-29,1.0
+0.0,1,1.0,Cardio,30,0.5
+0.0,1,0.0,No Exercise,0,1.0
+0.0,1,0.25,Flexibility,1-29,0.5
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,1.0,Cardio,31-59,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises)",1-29,0.5
+0.0,1,0.25,Flexibility,0,1.0
+0.0,1,1.0,Cardio,1-29,0.5
+0.0,1,0.25,HIIT,30,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.0,No Exercise,0,0.5
+1.0,1,,"Cardio (e.g., running, cycling, swimming), Flexibility and balance (e.g., yoga, pilates)",1-29,1.0
+0.0,1,,Cardio,1-29,0.5
+1.0,1,0.25,No Exercise,0,0.5
+0.0,1,,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises)",31-59,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,No Exercise,1-29,0.5
+0.0,1,0.75,Flexibility,1-29,0.5
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,No Exercise,1-29,0.5
+0.0,1,,Cardio,30,0.5
+0.0,1,0.75,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises), Flexibility and balance (e.g., yoga, pilates)",60,0.5
+0.0,1,0.75,Cardio,30,1.0
+0.0,1,0.75,Cardio,60,0.5
+0.0,1,0.75,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises)",31-59,0.5
+0.0,1,,No Exercise,1-29,0.5
+0.0,1,,Cardio,30,0.5
+0.0,1,0.25,No Exercise,1-29,0.5
+0.0,1,0.75,Flexibility,1-29,0.5
+1.0,1,,Cardio,60,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,Flexibility,1-29,0.5
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,1.0,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises), Flexibility and balance (e.g., yoga, pilates)",1-29,0.5
+0.0,1,0.25,Cardio,1-29,0.0
+0.0,1,0.25,No Exercise,30,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,Cardio,1-29,0.5
+1.0,1,0.0,No Exercise,1-29,0.0
+1.0,1,0.25,Cardio,60,0.5
+0.0,1,0.25,Flexibility,1-29,0.5
+0.0,1,,Cardio,30,0.5
+0.0,1,1.0,Cardio,30,0.5
+0.0,1,0.25,No Exercise,1-29,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,Cardio,30,0.5
+1.0,1,0.75,Cardio,1-29,0.0
+0.0,1,,"Strength training (e.g., weightlifting, resistance exercises), Flexibility and balance (e.g., yoga, pilates)",1-29,0.5
+0.0,1,,Cardio,30,0.5
+1.0,1,0.25,No Exercise,0,0.0
+0.0,1,1.0,Cardio,60,0.5
+0.0,1,,Strength,31-59,0.5
+1.0,1,0.25,No Exercise,0,0.5
+0.0,1,,Cardio,30,0.5
+1.0,1,0.25,Flexibility,1-29,0.5
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,,Cardio,1-29,0.5
+0.0,1,,Flexibility,30,1.0
+1.0,1,0.25,No Exercise,0,1.0
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.75,"Cardio (e.g., running, cycling, swimming), Flexibility and balance (e.g., yoga, pilates)",60,0.5
+0.0,1,,Cardio,30,0.5
+0.0,1,0.0,No Exercise,0,0.5
+1.0,1,0.75,Cardio,31-59,0.5
+0.0,1,0.25,Flexibility,60,1.0
+,1,,Cardio,1-29,0.5
+0.0,1,0.25,No Exercise,1-29,0.5
+1.0,1,0.25,No Exercise,0,0.5
+0.0,1,1.0,No Exercise,1-29,1.0
+0.0,1,1.0,Cardio,30,0.5
+0.0,1,0.75,"Cardio (e.g., running, cycling, swimming), Flexibility and balance (e.g., yoga, pilates)",30,0.5
+0.0,1,1.0,Cardio,60,0.5
+0.0,1,0.0,No Exercise,0,0.5
+1.0,1,,Strength,60,0.0
+1.0,1,0.25,Flexibility,1-29,0.5
+0.0,1,0.25,Strength,60,0.5
+0.0,1,0.25,Strength,0,0.0
+0.0,1,0.25,Cardio,1-29,1.0
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,,Flexibility,1-29,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,,No Exercise,0,0.5
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,0.75,Flexibility,0,0.5
+1.0,1,,Cardio,1-29,0.5
+0.0,1,0.25,Cardio,1-29,0.5
+0.0,1,0.0,No Exercise,0,0.0
+1.0,1,0.0,No Exercise,0,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,,No Exercise,0,0.5
+0.0,1,0.25,Cardio,1-29,1.0
+0.0,1,0.0,No Exercise,0,0.5
+1.0,1,1.0,"Flexibility and balance (e.g., yoga, pilates), None",1-29,0.5
+1.0,1,0.75,Cardio,30,0.5
+0.0,1,0.25,Strength,1-29,1.0
+1.0,1,0.0,No Exercise,0,1.0
+0.0,1,0.75,Cardio,1-29,0.5
+0.0,1,0.0,No Exercise,0,0.5
+1.0,1,1.0,Cardio,30,0.5
+1.0,1,0.0,No Exercise,0,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.0,No Exercise,0,0.5
+1.0,1,0.25,"Cardio (e.g., running, cycling, swimming), Strength training (e.g., weightlifting, resistance exercises), High-intensity interval training (HIIT)",60,1.0
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,1.0,No Exercise,1-29,0.5
+1.0,1,1.0,Cardio,30,1.0
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,1.0,Flexibility,1-29,0.5
+0.0,1,0.75,Cardio,0,1.0
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,,Strength,31-59,1.0
+0.0,1,1.0,No Exercise,0,0.5
+0.0,1,0.0,No Exercise,0,0.5
+0.0,1,0.25,Strength,1-29,0.0
+0.0,1,0.25,No Exercise,0,0.5
+1.0,1,1.0,Cardio,30,1.0
+0.0,1,0.25,Cardio,1-29,0.0
+0.0,1,0.25,Cardio,31-59,0.5
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,Cardio,30,1.0
+1.0,1,0.25,No Exercise,0,0.0
+0.0,1,0.25,No Exercise,0,0.5
+1.0,1,0.25,Cardio,1-29,0.5
+1.0,1,0.0,No Exercise,0,0.5
+0.0,1,0.75,No Exercise,1-29,0.0
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,Cardio,30,1.0
+1.0,1,0.25,"Cardio (e.g., running, cycling, swimming), None",1-29,0.0
+0.0,1,0.25,Cardio,30,0.5
+0.0,1,,No Exercise,0,1.0
+1.0,1,0.0,Cardio,0,0.5
+0.0,1,,Cardio,60,0.5
+0.0,1,0.75,"Cardio (e.g., running, cycling, swimming), Flexibility and balance (e.g., yoga, pilates)",1-29,1.0
+0.0,1,0.75,Strength,60,0.5
+0.0,1,0.25,Cardio,1-29,0.5
+0.0,1,0.25,No Exercise,0,0.0
+0.0,1,0.25,No Exercise,0,0.5
+0.0,1,0.25,Flexibility,0,0.5
+1.0,1,,Cardio,1-29,1.0
+0.0,1,0.25,Cardio,1-29,0.5
+0.0,1,0.25,Cardio,30,0.5
+1.0,1,0.75,HIIT,30,0.5
+1.0,1,0.25,Flexibility,0,0.0
+0.0,1,0.25,Cardio,60,0.5
+0.0,1,,Cardio,60,0.5
