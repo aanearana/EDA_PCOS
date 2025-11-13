@@ -76,7 +76,7 @@ Correlaciones destacadas:
 
 Variable Correlación con PCOS Diet_Sweets +0.15 Diet_Fried_Food +0.13 Diet_Fruits −0.11 Diet_Vegetables −0.03
 
-Conclusión: El consumo frecuente de dulces y fritos se asocia con un mayor riesgo de PCOS, mientras que una dieta rica en frutas y verduras podría tener un efecto protector.
+Conclusión: Aunque se observa que las personas con PCOS parecen tener una dieta más saludable (más frutas y menos frituras o dulces), esto no apoya la hipótesis de que una buena alimentación reduce el riesgo de PCOS.
 
 🏋️‍♀️ Hipótesis 3: Factor de Ejercicio
 
@@ -91,6 +91,10 @@ Las mujeres que realizan ejercicio 3–4 veces por semana muestran menores tasas
 
 La práctica regular de ejercicio moderado o aeróbico está asociada con una menor probabilidad de desarrollar el síndrome.
 
+Conclusión:
+
+Aunque la mayoría no realiza ejercicio regularmente, se observa que quienes lo practican con mayor frecuencia presentan menos casos de PCOS, lo que apoya parcialmente la hipótesis de que la actividad física reduce su probabilidad de aparición.
+
 🌙 Hipótesis 4: Hábitos Generales
 
 Objetivo: Analizar el nivel de estrés, el tabaquismo y la medicación cómo afectan la incidencia del PCOS.
@@ -102,7 +106,9 @@ Hallazgos:
 
 Altos niveles de estrés están relacionados con un aumento del riesgo.
 
-No se encontró relación significativa con el tabaquismo, debido a la baja frecuencia de casos registrados.
+Conclusión: 
+
+Las personas con PCOS tienden a fumar más, presentar mayores niveles de estrés y consumir más medicación, lo que respalda la hipótesis de que mantener buenos hábitos y evitar el consumo de tabaco se asocia con una menor probabilidad de desarrollar PCOS.
 
 📊 Librerías utilizadas
 
