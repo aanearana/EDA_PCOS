@@ -144,8 +144,7 @@ Este análisis exploratorio demuestra cómo factores genéticos, hormonales y de
 
 🎨 Presentacion
 
-https://prezi.com/view/V1YRoOTTgDxrATATTTL2/?referral_token=yEGlRYlnB3FN
-
+https://prezi.com/view/2EC5qdtJJmub6coT4pkZ/?referral_token=yEGlRYlnB3FN
 
 👩‍💻 Autoría
 
